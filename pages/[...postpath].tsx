@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://shorturl.at/jD0Fd`
+					`https://contestjoe.com/c0k8313hw?key=9dd151a1706ac37388ffea402f5c7f02`
 				}`,
 			},
 		};
